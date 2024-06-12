@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=heir-of-god&label=Profile%20Visitors&color=0&icon=7&pretty=true)]
+![](https://visitcount.itsvg.in/api?id=heir-of-god&label=Profile%20Visitors&color=0&icon=7&pretty=true)
 
 <a href="https://github.com/heir-of-god?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=heir-of-god&theme=transparent&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_color=0C77FF" width="45%" alt="@Heir-Of-God's github-readme-stats">
