@@ -1,9 +1,9 @@
-<p align="center">
-  
+<center>
+
 # Hi there👋, I'm Heir of God💙
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=2484FF&size=24&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡)](https://git.io/typing-svg)
 
-</p>
+</center>
 
 ## 🙋‍♂️ About Me
 
@@ -37,7 +37,7 @@
 
 ## 📊 Github Statistics
 
-<p align="center">
+<center>
 
 [![](https://visitcount.itsvg.in/api?id=Heir-of-God&label=PROFILE%20VISITORS&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
@@ -53,13 +53,14 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=heir-of-god&theme=algolia&no-bg=true&no-frame=true)
 
-</p>
+</center>
 
 ## ✍️ Random Dev Quote
 
-<p align="center">
+<center>
+
 Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
 
 ![](https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal)
 
-</p>
+</center>
