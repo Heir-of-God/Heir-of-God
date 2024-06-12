@@ -1,9 +1,10 @@
-<center>
+<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Heir of God💙 </h1>
 
-# Hi there👋, I'm Heir of God💙
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=2484FF&size=24&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡)](https://git.io/typing-svg)
 
-</center>
+</div>
 
 ## 🙋‍♂️ About Me
 
@@ -37,7 +38,7 @@
 
 ## 📊 Github Statistics
 
-<center>
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Heir-of-God&label=PROFILE%20VISITORS&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
@@ -53,14 +54,15 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=heir-of-god&theme=algolia&no-bg=true&no-frame=true)
 
-</center>
+</div>
+
 
 ## ✍️ Random Dev Quote
 
-<center>
+<div align="center">
 
 Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
 
 ![](https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal)
 
-</center>
+</div>
