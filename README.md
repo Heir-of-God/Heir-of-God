@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=2484FF&size=24&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Heir-of-God)
 
 </div>
 
@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://github.com/heir-of-god?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=heir-of-god&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&border=0C77FF" width="45%"    alt="@Heir-Of-God's github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=heir-of-god&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&border=0C77FF" width="45%" alt="@Heir-Of-God's github-readme-streak-stats">
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heir-of-god&theme=transparent&layout=compact&exclude_repo=Data-Science-Capstone&border_color=0C77FF" width="30%"> 
