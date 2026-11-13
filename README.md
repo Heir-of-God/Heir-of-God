@@ -24,9 +24,22 @@
 
 ## 🚀 Tech
 
-<p align="center">
-  <img alt="Python, TypeScript, JavaScript, React, Node.js, FastAPI, Django, PostgreSQL, Git, VS Code" src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,fastapi,django,postgres,git,vscode" />
-</p>
+<table align="center">
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" /><br /><sub>Python</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /><br /><sub>React</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /><br /><sub>Node.js</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" /><br /><sub>FastAPI</sub></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=django" width="48" alt="Django" /><br /><sub>Django</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br /><sub>Git</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br /><sub>VS Code</sub></td>
+  </tr>
+</table>
 
 ## 📌 Projects
 
